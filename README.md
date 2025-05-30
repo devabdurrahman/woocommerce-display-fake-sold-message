@@ -1,0 +1,1 @@
+# woocommerce-display-fake-sold-message
